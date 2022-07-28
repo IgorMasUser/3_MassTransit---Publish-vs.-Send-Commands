@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72b96a60-b257-4194-ad5c-82dc88366baa": {
+      "ProjectGuid": "72b96a60-b257-4194-ad5c-82dc88366baa",
+      "DisplayName": "MassTransit Starting with Mediator",
+      "ColorIndex": 0
+    },
+    "2e9162dd-5fee-4b2c-8e7a-66d3490a5489": {
+      "ProjectGuid": "2e9162dd-5fee-4b2c-8e7a-66d3490a5489",
+      "DisplayName": "Sample.Contracts",
+      "ColorIndex": 1
+    },
+    "ac8b3243-175c-4632-a5b0-bf36e1d9bc58": {
+      "ProjectGuid": "ac8b3243-175c-4632-a5b0-bf36e1d9bc58",
+      "DisplayName": "Sample.Components",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "82282137-4c22-4e67-8274-63f1ccce1a39": {
+      "ProjectGuid": "82282137-4c22-4e67-8274-63f1ccce1a39",
+      "DisplayName": "Sample-Service",
+      "ColorIndex": 3
+    },
+    "cb370463-ea6d-42eb-823c-0d24ae203876": {
+      "ProjectGuid": "cb370463-ea6d-42eb-823c-0d24ae203876",
+      "DisplayName": "Sample-Service",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

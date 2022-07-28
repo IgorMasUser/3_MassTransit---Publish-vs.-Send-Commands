@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample-Service\\Sample-Service.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample-Service\\Sample-Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample-Service\\Sample-Service.csproj",
+        "projectName": "Sample-Service",
+        "projectPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample-Service\\Sample-Service.csproj",
+        "packagesPath": "C:\\Users\\Igor Maslov\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample-Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Igor Maslov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Components\\Sample.Components.csproj": {
+                "projectPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Components\\Sample.Components.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Components\\Sample.Components.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Components\\Sample.Components.csproj",
+        "projectName": "Sample.Components",
+        "projectPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Components\\Sample.Components.csproj",
+        "packagesPath": "C:\\Users\\Igor Maslov\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Components\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Igor Maslov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Contracts\\Sample.Contracts.csproj": {
+                "projectPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Contracts\\Sample.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Contracts\\Sample.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Contracts\\Sample.Contracts.csproj",
+        "projectName": "Sample.Contracts",
+        "projectPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Contracts\\Sample.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Igor Maslov\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\MessageBus\\2_Moving from Mediator to RabbitMQ\\Moving from Mediator to RabbitMQ\\Sample.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Igor Maslov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

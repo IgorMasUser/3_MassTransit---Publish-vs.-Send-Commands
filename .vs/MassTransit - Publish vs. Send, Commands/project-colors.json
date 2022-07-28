@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e9162dd-5fee-4b2c-8e7a-66d3490a5489": {
+      "ProjectGuid": "2e9162dd-5fee-4b2c-8e7a-66d3490a5489",
+      "DisplayName": "Sample.Contracts",
+      "ColorIndex": 0
+    },
+    "ac8b3243-175c-4632-a5b0-bf36e1d9bc58": {
+      "ProjectGuid": "ac8b3243-175c-4632-a5b0-bf36e1d9bc58",
+      "DisplayName": "Sample.Components",
+      "ColorIndex": 1
+    },
+    "72b96a60-b257-4194-ad5c-82dc88366baa": {
+      "ProjectGuid": "72b96a60-b257-4194-ad5c-82dc88366baa",
+      "DisplayName": "MassTransit Starting with Mediator",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

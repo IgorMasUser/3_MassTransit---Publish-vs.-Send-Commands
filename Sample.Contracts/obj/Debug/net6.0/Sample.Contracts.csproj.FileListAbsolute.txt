@@ -1,0 +1,24 @@
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.deps.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\bin\Debug\net6.0\ref\Sample.Contracts.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.AssemblyInfo.cs
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\ref\Sample.Contracts.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.deps.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\bin\Debug\net6.0\ref\Sample.Contracts.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.AssemblyInfo.cs
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\ref\Sample.Contracts.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.pdb

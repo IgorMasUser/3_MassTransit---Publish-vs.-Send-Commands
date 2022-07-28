@@ -1,0 +1,145 @@
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\appsettings.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.exe
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.deps.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.runtimeconfig.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\ref\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.AssemblyInfo.cs
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\scopedcss\bundle\MassTransit Starting with Mediator.styles.css
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.CopyComplete
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\ref\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.genruntimeconfig.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.Abstractions.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\System.Text.Json.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Namotion.Reflection.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NJsonSchema.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Annotations.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.AspNetCore.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Core.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Generation.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\MassTransit Starting with Mediator\bin\Debug\net6.0\YamlDotNet.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\appsettings.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.exe
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.deps.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.runtimeconfig.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\ref\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.Abstractions.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Namotion.Reflection.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NJsonSchema.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Annotations.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.AspNetCore.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Core.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Generation.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\System.Text.Json.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\YamlDotNet.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.AssemblyInfo.cs
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\scopedcss\bundle\MassTransit Starting with Mediator.styles.css
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.CopyComplete
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\ref\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.genruntimeconfig.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\MassTransit Starting with Mediator\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\appsettings.json
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.exe
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.deps.json
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.runtimeconfig.json
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\ref\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit Starting with Mediator.pdb
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.Abstractions.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Namotion.Reflection.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NJsonSchema.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Annotations.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.AspNetCore.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Core.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Generation.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\System.Text.Json.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\YamlDotNet.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.AssemblyInfo.cs
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\scopedcss\bundle\MassTransit Starting with Mediator.styles.css
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.csproj.CopyComplete
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\ref\MassTransit Starting with Mediator.dll
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.pdb
+E:\Projects\MessageBus\3_MassTransit - Publish vs. Send, Commands\MassTransit - Publish vs. Send, Commands\MassTransit Starting with Mediator\obj\Debug\net6.0\MassTransit Starting with Mediator.genruntimeconfig.cache
